@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "憂暮れ",
+  "base_artist": "ササフネ",
+  "createdAt": "2026-03-10T07:47:25.231291Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憂暮れ",
+      "artist": "ササフネ",
+      "has_synced": false,
+      "path": "select/pl_01_憂暮れ_ササフネ.txt"
+    }
+  ]
+}
